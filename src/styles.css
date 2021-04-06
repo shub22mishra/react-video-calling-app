@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(https://i2.wp.com/www.freeconference.com/wp-content/uploads/2017/11/video-template-2635532_640-2.jpg?resize=640%2C359&ssl=1);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
